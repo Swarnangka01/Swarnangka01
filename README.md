@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swarnangka Barman
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Front End Development , Mysql , Php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
