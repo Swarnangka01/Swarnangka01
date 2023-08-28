@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Swarnangka Barman
 - 🌱 I’m currently learning Front End Development , Mysql , Php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My email - Swarnangka06@gmail.com
 
 <!---
 Swarnangka01/Swarnangka01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
